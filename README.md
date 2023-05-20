@@ -3,7 +3,7 @@ The KrazyKar Vehicle by the CREATEERS
 
 Researcher: Wilson Dhalwani and the CREATEERS Club <br />
 Advisor: Mr. Carlos Nodarse (BCA) <br />
-Context: The CREATEERS Club, a group of non engineering students lead and taught by engineers <br />
+Context: The CREATEERS Club, a group of non-engineering students lead and taught by engineers <br />
 Projekt Name: KrazyKar: From Trash to Treasure <br />
 Start Date: January 1, 2022 <br />
 
